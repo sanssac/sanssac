@@ -41,6 +41,7 @@ A web platform focused on delivering a clean, user-friendly experience through m
 **Tech Stack:** HTML, CSS, JavaScript
 
 🔗 [Live Website](https://mcunexus.vercel.app/index.html) · [GitHub Profile](https://github.com/sanssac)
+
 ---
 
 ## 🏆 Achievements
@@ -56,10 +57,6 @@ A web platform focused on delivering a clean, user-friendly experience through m
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanssac&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanssac&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🤝 Connect With Me
 
